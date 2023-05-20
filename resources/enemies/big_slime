@@ -1,0 +1,9 @@
+{
+:desc "Big poison slime."
+  :items #{}
+  :power 3
+  :health 10
+  :experience 50
+  :range 1
+  :antihealth 0
+}

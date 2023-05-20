@@ -1,0 +1,5 @@
+{:desc "Dark road goes between tall trees."
+ :exits {:west :fields :east :forest_exit :north :thicket}
+ :enemy #{:bandit}
+ :items #{:strange_flower}
+ }

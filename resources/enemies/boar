@@ -1,0 +1,9 @@
+{
+:desc "The usual skeleton of a man in rags with a broken wooden shield and a rusty sword."
+  :items #{:boar_meat}
+  :power 2
+  :health 5
+  :experience 25
+  :range 1
+  :antihealth 0
+}

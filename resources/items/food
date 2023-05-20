@@ -1,0 +1,7 @@
+{
+:desc "Plate of delicious food. It restores 5 HP"
+:usability 2
+ :price 10
+ :weight 1
+ :heal 5
+}

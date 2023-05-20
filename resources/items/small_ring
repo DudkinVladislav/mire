@@ -1,0 +1,7 @@
+{
+:desc "small ring with shine stone"
+:usability 100000
+ :price 50
+ :weight 0
+ :heal 0
+}

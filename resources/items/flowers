@@ -1,0 +1,7 @@
+{
+:desc "nice meadow flowers"
+:usability 100000
+ :price 10
+ :weight 2
+ :heal 0
+}

@@ -1,0 +1,12 @@
+{
+:desc "Big axe for battles. Maybe some barbarian dropped it here."
+ :durability 20
+ :damage 1
+ :price 5
+ :weight 1
+ :wearing 1
+ :range 3
+ :range_without_ammo 3
+ :damage_without_ammo 1
+ :ammo nothing
+}

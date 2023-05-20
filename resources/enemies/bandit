@@ -1,0 +1,9 @@
+{
+:desc "Strong bandit with steal sword"
+  :items #{:sword}
+  :power 5
+  :health 10
+  :experience 100
+  :range 1
+  :antihealth 0
+}

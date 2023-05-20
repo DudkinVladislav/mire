@@ -1,0 +1,4 @@
+{:desc "You are in a cramped closet."
+ :exits {:south :arsenal}
+ :items #{:keys}
+ }

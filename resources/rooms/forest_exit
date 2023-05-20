@@ -1,0 +1,4 @@
+{:desc "Exit of forest. There is small house with two guards."
+ :exits {:west :road_through_the_forest}
+ :items #{:broken_sable}
+ }

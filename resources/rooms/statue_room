@@ -1,0 +1,4 @@
+{:desc "The big clean room with ancient statue in the middle."
+ :exits {:west :promenade }
+ :items #{:battle_axe }
+ }

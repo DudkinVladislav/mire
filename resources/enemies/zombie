@@ -1,0 +1,9 @@
+{
+:desc "The usual skeleton of a man in rags with a broken wooden shield and a rusty sword."
+  :items #{:stick}
+  :power 1
+  :health 8
+  :experience 25
+  :range 1
+  :antihealth 0
+}

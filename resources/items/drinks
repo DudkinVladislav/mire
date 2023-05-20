@@ -1,0 +1,7 @@
+{
+:desc "Bottle of tasty drink. It gives 3 HP."
+:usability 1
+ :price 10
+ :weight 1
+ :heal 3
+}

@@ -1,0 +1,7 @@
+{
+:desc "Big mushroom.Looks tasty. It gives -5 HP."
+:usability 1
+ :price 5
+ :weight 1
+ :heal -5
+}

@@ -1,0 +1,5 @@
+{:desc "You are in the room full of old weapons and ghosts."
+ :exits {:south :first_room :north :closet}
+ :items #{:bow}
+ :enemy #{:ghost}
+ }

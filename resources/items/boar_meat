@@ -1,0 +1,7 @@
+{
+:desc "Meat of boar. It gives 1 HP."
+:usability 1
+ :price 2
+ :weight 1
+ :heal 1
+}

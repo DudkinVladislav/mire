@@ -1,0 +1,9 @@
+{
+:desc "The angry demon with huge horns."
+  :items #{:keys}
+  :power 10
+  :health 25
+  :experience 1000
+  :range 3
+  :antihealth 0
+}

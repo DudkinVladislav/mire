@@ -1,0 +1,4 @@
+{:desc "Quiet river slow flows."
+ :exits {:south :fields :west :thicket }
+ :items #{:mystery_stone :colorful_shell :water_grass}
+ }

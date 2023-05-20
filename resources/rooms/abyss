@@ -1,0 +1,5 @@
+{:desc "You are in the room with massive empty doorway near wall."
+ :exits {}
+ :items #{}
+ :enemy #{:dragon_of_abyss}
+ }

@@ -1,0 +1,5 @@
+{:desc "You go into deep dark thicket without any sunlight."
+ :exits {:south :road_through_the_forest :east :river :north :wild_meadow :west :dungeon_entrance}
+ :items #{:big_mushroom :medicals_herbs}
+ :enemy #{:wolf }
+ }

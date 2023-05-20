@@ -1,0 +1,7 @@
+{
+:desc "Medical herbs. It can restore 5 HP."
+:usability 1
+ :price 10
+ :weight 1
+ :heal 10
+}

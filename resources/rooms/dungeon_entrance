@@ -1,0 +1,5 @@
+{:desc "You find yourself near massive hole in the rock."
+ :exits {:east :thicket :west :first_room }
+ :items #{}
+ :enemy #{:big_slime}
+ }

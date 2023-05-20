@@ -1,0 +1,12 @@
+{
+:desc "Arrow with steel arrowhead"
+ :damage 1
+ :price 3
+ :weight 1
+ :wearing 1
+ :range 1
+ :range_without_ammo 1
+ :damage_without_ammo 1
+ :ammo nothing
+ :quantity 1
+}

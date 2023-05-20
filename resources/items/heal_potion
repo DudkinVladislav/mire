@@ -1,0 +1,7 @@
+{
+:desc "Standard potion gives 10 HP."
+:usability 1
+ :price 10
+ :weight 1
+ :heal 10
+}

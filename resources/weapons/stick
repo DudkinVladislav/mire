@@ -1,0 +1,12 @@
+{
+:desc "The long stick cleared of bark and big knots."
+:durability 100
+:damage 1
+:price 2
+:weight 2
+:wearing 1
+:range 1
+ :range_without_ammo 1
+ :damage_without_ammo 1
+ :ammo nothing
+}

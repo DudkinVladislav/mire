@@ -1,0 +1,4 @@
+{:desc "You are next to seller's shop."
+ :exits {:north :streets :east :tavern :west :start}
+ :items #{:coin}
+ }

@@ -1,0 +1,13 @@
+{
+:desc "The ordinary metal sword. Nothing special."
+:name #{:sword}
+ :durability 75
+ :damage 5
+ :price 15
+ :weight 5
+ :wearing 1
+ :range 1
+ :range_without_ammo 1
+ :damage_without_ammo 4
+ :ammo nothing
+}

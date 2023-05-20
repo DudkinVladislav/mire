@@ -1,0 +1,7 @@
+{
+:desc "small coin"
+:usability 100000
+ :price 1
+ :weight 0
+ :heal 0
+}

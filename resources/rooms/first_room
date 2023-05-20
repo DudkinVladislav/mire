@@ -1,0 +1,5 @@
+{:desc "You enter room with pillar in the center."
+ :exits {:east :dungeon_entrance :north :arsenal :south :hallway }
+ :items #{:money_bag}
+ :enemy #{:zombie}
+ }

@@ -1,0 +1,5 @@
+{:desc "Nice meadow with colorful flowers."
+ :exits {:south :thicket}
+ :items #{:flowers}
+ :enemy #{:hare :pheasant}
+ }

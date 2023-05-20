@@ -1,0 +1,4 @@
+{:desc "A lot of narrow streets stretch somewhere."
+ :exits {:south :seller :west :tavern}
+ :items #{}
+ }

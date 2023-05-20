@@ -1,0 +1,12 @@
+{
+:desc "Wooden bow with thin string"
+ :durability 90
+ :damage 7
+ :price 17
+ :weight 2
+ :wearing 2
+ :range 4
+ :range_without_ammo 1
+ :damage_without_ammo 1
+ :ammo arrow
+}

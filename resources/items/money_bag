@@ -1,0 +1,7 @@
+{
+:desc "Bag full of money"
+:usability 100000
+ :price 1000
+ :weight 50
+ :heal 0
+}

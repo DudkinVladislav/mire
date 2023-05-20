@@ -1,0 +1,4 @@
+{:desc "You are in old tavern with a lot of noisy people inside."
+ :exits {:east :streets :west :seller :north :start}
+ :items #{:food :drinks}
+ }

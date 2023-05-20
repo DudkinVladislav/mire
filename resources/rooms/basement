@@ -1,0 +1,3 @@
+{:desc "The basement is deep and dark."
+ :exits {:south :promenade :north :door_to_abyss}
+ :items #{ :analyser}}
