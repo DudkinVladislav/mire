@@ -1,6 +1,6 @@
 {
 :desc "The usual skeleton of a man in rags with a broken wooden shield and a rusty sword."
-  :items #{:eternity}
+  :items #{}
   :power 5
   :health 50
   :experience 500
