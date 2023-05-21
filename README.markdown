@@ -31,3 +31,14 @@ and shows how to make minor updates for a more recent version of Clojure.
 
 Copyright © 2009-2021 Phil Hagelberg
 Licensed under the same terms as Clojure.
+
+## Launch
+### Clojure Mire:
+1. Launching the game mire: lein run
+2. Connection to the game: telnet localhost 3333
+3. Path to complete the game: north, north, west, north, south, west, west, north, north, grab keys.
+
+### Prolog bot
+1. Start the server: lein run
+2. Launching the bot: swipl bot.pl (/src/prolog)
+3. Write: main.
