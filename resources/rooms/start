@@ -1,5 +1,4 @@
 {:desc "You find yourself near big wooden doors of little country village."
  :exits {:north :fields :south :tavern :east :seller}
- :items #{:mystery_stone :colorful_shell :water_grass :heal_potion :apple :battle_axe
- :sword}
+ :items #{}
  }
