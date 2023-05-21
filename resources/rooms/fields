@@ -1,5 +1,5 @@
 {:desc "Fields are sown with different seeds."
  :exits {:south :start :north :river :east :road_through_the_forest}
- :items #{:arrow :sword }
+ :items #{ }
  :enemy #{:boar}
  }
