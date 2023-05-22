@@ -36,7 +36,9 @@
     (do
   (alter *level* + 1)
   (alter *health* + (* 10 @*level*))
-  (alter *magic_power* + (* 2 (+ @*level* 1)))
+  (if (carrying? "mystery_stone")
+    (alter *magic_power* + (* 2 (+ @*level* 1)))
+    )
   (alter *damage_without_weapon* + (* 2 (+ @*level* 1)))
   (if (= @*time* 1)
     (do

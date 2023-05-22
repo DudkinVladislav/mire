@@ -1,0 +1,12 @@
+{
+:desc "Spicy but broken sable."
+:durability 10
+:damage 4
+:price 10
+:weight 5
+:wearing 1
+:range 1
+:range_without_ammo 1
+:damage_without_ammo 3
+:ammo nothing
+}

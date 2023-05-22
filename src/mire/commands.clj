@@ -20,9 +20,6 @@
   "Look at your characteristics."
   []
   (str
-    @player/*experience* "\n"
-    @player/*new_experience* "\n"
-    "Your current room is " (:name @player/*current-room*)  "\n"
     "Your health is "   @player/*health* "\n"
     "Your level is "   @player/*level* "\n"
     "Your magic power is "   @player/*magic_power* "\n"
@@ -279,8 +276,8 @@
                      (ref-set player/*hits_with_weapon* 0)
                      (move-between-refs (keyword enemy) (:enemy @player/*current-room*)  player/*kills*)
                      (print "You kill " enemy ", but it could hit you. Your health is " @player/*health* "\n")
-                     (alter player/*experience* + @(:experience ((keyword enemy) @enemies/enemies)))
-                     (if-let [item @(first (:items ((keyword enemy) @enemies/enemies)))]
+                     (alter player/*experience* + (:experience ((keyword enemy) @enemies/enemies)))
+                     (if-let [item (first @(:items ((keyword enemy) @enemies/enemies)))]
                        (do
 
                          (move-between-refs (keyword item) (:items ((keyword enemy) @enemies/enemies))  (:items @player/*current-room*) )
@@ -315,7 +312,7 @@
                    (ref-set player/*hits* 0 )
                    (move-between-refs (keyword enemy) (:enemy @player/*current-room*)  player/*kills*)
                    (print "You kill " enemy ", but it could hit you. Your health is " @player/*health* "\n")
-                   (alter player/*experience* + @(:experience ((keyword enemy) @enemies/enemies)))
+                   (alter player/*experience* + (:experience ((keyword enemy) @enemies/enemies)))
                    (if-let [item (first @(:items ((keyword enemy) @enemies/enemies)))]
                      (do
 
